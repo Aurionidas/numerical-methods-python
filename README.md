@@ -2,10 +2,10 @@
 
 This project contains a collection of numerical approximation algorithms implemented in Python, including methods for:
 
-- Root-finding
-- Interpolation
-- Numerical integration
-- Solving ordinary differential equations (ODEs)
+- [Root-finding](https://github.com/Aurionidas/numerical-methods-python/tree/main/roots)
+- [Interpolation](https://github.com/Aurionidas/numerical-methods-python/tree/main/interpolation)
+- [Numerical integration](https://github.com/Aurionidas/numerical-methods-python/tree/main/integration)
+- [Solving ordinary differential equations (ODEs)](https://github.com/Aurionidas/numerical-methods-python/tree/main/odes)
 
 These algorithms were originally developed as part of a university-level Numerical Methods course. The goal was to explore and implement foundational mathematical techniques commonly used in engineering and scientific computing.
 
