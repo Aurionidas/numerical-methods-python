@@ -9,7 +9,7 @@ This project contains a collection of numerical approximation algorithms impleme
 
 These algorithms were originally developed as part of a university-level Numerical Methods course. The goal was to explore and implement foundational mathematical techniques commonly used in engineering and scientific computing.
 
-All implementations are included in the Jupyter Notebook `numerical_methods.ipynb`, along with clear explanations, step-by-step code, visualizations, and example problems.
+All implementations are included in the Jupyter Notebook located in each folder, along with clear explanations, step-by-step code, visualizations, and example problems.
 
 ## 💻 Tools & Libraries
 
