@@ -56,5 +56,4 @@ To run the notebook:
 
 **Juan David López**  
 Bilingual Data Analyst | Scientific Computing Enthusiast  
-[LinkedIn](https://www.linkedin.com/in/juan-davd-lopez)  
-[Portfolio](https://github.com/Aurionidas/juanlopez-portfolio)
+[LinkedIn](https://www.linkedin.com/in/juan-davd-lopez)  [Portfolio](https://github.com/Aurionidas/juanlopez-portfolio)
